@@ -1,8 +1,8 @@
-# echo-editor
+# Echo Editor
 
 Echo Editor 是一款不上云、本地易用、操作界面友好、编辑交互体验好、可定制化的文档编辑器
 
-<img scr="http://oss.yunzhu.info//6695d0ae-9859-4bec-b71e-96bf7578d6f1_app.png"  />
+<img src="http://help-doc.oss-cn-beijing.aliyuncs.com/00be5b14-f377-4758-ae57-77f00c1ad39b_app.png"  width="750" >
 
 ## 功能列表
 
