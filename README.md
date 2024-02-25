@@ -1,6 +1,8 @@
 # echo-editor
 
-A locally stored and easy-to-use document editor
+Echo Editor 是一款不上云、本地易用、操作界面友好、编辑交互体验好、可定制化的文档编辑器
+
+<img scr="http://oss.yunzhu.info//6695d0ae-9859-4bec-b71e-96bf7578d6f1_app.png"  />
 
 ## 功能列表
 
